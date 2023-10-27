@@ -21,17 +21,6 @@ Bem-vindo ao meu perfil do GitHub! Sou um estudante de Sistemas de Informação 
 - LinkedIn: Yanna Aparecida - www.linkedin.com/in/yanna-santos
 - Email: yannasantos45@gmail.com
 
-  <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yannasantos&show_icons=true&theme=github_dark"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yannasantos&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
-<div align="center">
-  <img height="206em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yannasantos&theme=github_dark"/>
-</div>
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Yanna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yanna-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
