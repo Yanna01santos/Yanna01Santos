@@ -3,7 +3,7 @@
 
 Bem-vindo ao meu perfil do GitHub! 
 Sou estudante de Sistemas de Informação na Unifacisa, localizada em Campina Grande, PB. 
-Apaixonada por tecnologia e Ciência.
+Amante de tecnologia e Ciência.
 
 🎓 Formação Acadêmica
 
