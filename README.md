@@ -1,7 +1,7 @@
 
  Olá, sou Yanna Aparecida 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou um estudante de Sistemas de Informação na Unifacisa, localizada em Campina Grande, PB. Estou entusiasmada com a tecnologia e apaixonada por resolver problemas usando a ciência e a programação.
+Bem-vindo ao meu perfil do GitHub! Sou uma estudante de Sistemas de Informação na Unifacisa, localizada em Campina Grande, PB. Estou entusiasmada com a tecnologia e apaixonada por resolver problemas usando a ciência e a programação.
 
 🎓 Formação Acadêmica
 
