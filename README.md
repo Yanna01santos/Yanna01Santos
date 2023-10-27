@@ -10,8 +10,6 @@ Bem-vindo ao meu perfil do GitHub! Sou um estudante de Sistemas de Informação 
   - Ano de Ingresso:2022
 
  🚀 Habilidades
- 
- 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yanna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yanna-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
