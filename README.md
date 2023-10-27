@@ -10,17 +10,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um estudante de Sistemas de Informação 
   - Ano de Ingresso:2022
 
  🚀 Habilidades
-
-- Linguagens de Programação:Java, Python, JavaScript
-- Tecnologias: HTML, CSS, Node.js, React
-- Banco de Dados:MySQL, MongoDB
-
-
- 📫 Conecte-se comigo
-
-- LinkedIn: Yanna Aparecida - www.linkedin.com/in/yanna-santos
-- Email: yannasantos45@gmail.com
-
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yanna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yanna-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -29,3 +19,10 @@ Bem-vindo ao meu perfil do GitHub! Sou um estudante de Sistemas de Informação 
   <img align="center" alt="Yanna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yanna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+ 📫 Conecte-se comigo
+
+- LinkedIn: Yanna Aparecida - www.linkedin.com/in/yanna-santos
+- Email: yannasantos45@gmail.com
+
+
